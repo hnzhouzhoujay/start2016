@@ -3,6 +3,7 @@
  */
 package com.zj.code.currency;
 
+import java.util.Scanner;
 import java.util.concurrent.CountDownLatch;
 
 import org.junit.Test;
@@ -47,4 +48,14 @@ public class My {
 			}
 			
 	}
+
+	    public static void main(String[] args) {
+	        
+	        String bitStr = "";
+	        System.out.println(Integer.toBinaryString((11<<29 | 0) & 29));
+	        System.out.println(Integer.toBinaryString((-1<<29 | 0) &~ 29));
+	        
+	    }
+
+	    
 }
