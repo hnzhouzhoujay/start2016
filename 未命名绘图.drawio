@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T09:11:48.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MjnD3QhrW98zQGmp9Tl8" version="21.0.8" type="github"><diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">7Ztdk5owFIZ/jZftQAIil9Xubi/a3thpr7OQhXRD4oT41V/fIIlCUxE7s2OcZryQnHxBzpvnHEAncFHtngRalV94jukEBPluAj9OAAijYKa+Gsu+tSSRNhSC5LrRybAkv7A2Btq6Jjmuew0l51SSVd+YccZwJns2JATf9pu9cNqfdYUKbBmWGaK29QfJZamtYRCcKj5hUpR66lmsK55R9loIvmZ6PsYZbmsqZIbRTesS5XzbMcGHCVwIzmV7VO0WmDbLalas7fd4pvZ4ygIzOaoDRjBMkjTIQYbSGXwXAn1icm/WAedqWXTxcClwfrg43IwRqlIpK6oPKXrGdH68/gWnXJy61RIJ+aFxzR+2R0KbEQJT1mKIVRmz3PTIKKprkn0rCWsrdLewLXU6/cRS7nUZrSVXJi5kyQvOEP3M+Ur3qqXgr9ic5QTA+eFzrDF+b9q+cCYfUUVoI+fvWOSIIW3WM5m16y6/9kjN1yLD59ZcixuJAsszbfTQjS86A2unPmFeYSn2qoHAFEmy6UsY6Z1QHNudJKEOtCrGKgS2g24QXetp2kk589JxUTqpO9KJvHTuSjrQHelYylk2LiOsmIApqtTSztlz3XypMlXXM8/JRh0WzSFTuYkxq5k7NbbsKFX5RSORbUkkXq7QYQG3KsXpa+4kxoN+TBxvqjJekUxXXJLmP/kbzhElBWvEqVyOxfFC/qKBDRYS7wa9p2sjk7/ofG2mi9tT8pNqU9lJe6bBG7gb2P72pLgVKcAIUiTOkAIAL527ks7UHelYyjFRo14hZmLG10M0CUAnonSrfUjphpTkfdwLKmFqR5UktqNK/BZRJYw9GpxBAxyBhsgZNNg3vQNogB4NF9GQBP1s87ZgmHowOAOGaAQYYmfAYD/SGABD4sFwNRgguCUYEg8GZ8AQjwDDzBkw2LnmABhSD4arwRAlNwQD8G9B3AHD9K7AYOeaA2CYejBcBEMcO5QxAP+Oyx0wJHcFBjvXHABD7MFwEQxw6hAYZpZ3H1iuDO3LSe+088+M4/CWd4Cp57kzPE9H8NyIxQGg29LR8A5t6fy/G/74g08XngSbCOG3uwPb3QhjeL+Hzuz30BbPQAYX+Qzuajbc9mGwncJ5NtyMDWN+v+jOvZ053XFomHk0XI2GN3wcrIqnv2Qc6jp/eYEPvwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-13T09:34:05.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="js-VDWPpdG1K7LshxsT6" version="21.0.8" type="github">
+  <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-2" target="SRJ-KxKl1pcikuOMGOHQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-2" value="深圳" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-3" target="SRJ-KxKl1pcikuOMGOHQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-3" value="新化" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-5" value="28号出发，下午能到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-6" target="SRJ-KxKl1pcikuOMGOHQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-6" value="长沙" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-8" value="29号上午出发，中午到长沙" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-9" target="SRJ-KxKl1pcikuOMGOHQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-9" value="湘阴" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-11" value="30号早上五点出发，6点多到达" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-12" target="SRJ-KxKl1pcikuOMGOHQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-12" value="邵东" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-14" value="7点出发,10点到邵东" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-17" target="SRJ-KxKl1pcikuOMGOHQ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-17" value="长沙" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-19" value="28号" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="200" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-20" value="29号" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="160" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-21" value="30号" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="370" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-24" value="下午4点出发，6点到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-21">
+          <mxGeometry x="170" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-25" value="1号" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="10" width="190" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-27" value="株洲" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-25">
+          <mxGeometry x="30" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-36" value="从长沙出发株洲一日游" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-25">
+          <mxGeometry x="-30" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-31" value="2号" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="10" width="190" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SRJ-KxKl1pcikuOMGOHQ-31" source="SRJ-KxKl1pcikuOMGOHQ-32" target="SRJ-KxKl1pcikuOMGOHQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-32" value="湘潭" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-31">
+          <mxGeometry x="30" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-34" value="新化" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-31">
+          <mxGeometry x="30" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-43" value="陪伍总去湘潭" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-31">
+          <mxGeometry x="-30" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-44" value="返回新化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-31">
+          <mxGeometry x="100" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-27" target="SRJ-KxKl1pcikuOMGOHQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-37" value="3号" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="10" width="190" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-41" value="深圳" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-37">
+          <mxGeometry x="40" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-45" value="返回深圳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SRJ-KxKl1pcikuOMGOHQ-37">
+          <mxGeometry x="10" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SRJ-KxKl1pcikuOMGOHQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SRJ-KxKl1pcikuOMGOHQ-34" target="SRJ-KxKl1pcikuOMGOHQ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
